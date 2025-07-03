@@ -1,1 +1,7 @@
-ECHO is on.
+Flask
+pandas
+numpy
+matplotlib
+scipy
+scikit-image
+gunicorn
